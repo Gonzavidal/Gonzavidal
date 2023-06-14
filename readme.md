@@ -1,5 +1,7 @@
 ### Bienvenido!!!
 
+<img src="" width="70%" title="Intro" alt="Intro-Card">
+
 
 Certificado en Fullstack Developer en 4Geeks Academy Chile e Ingeniero en administración de empresas.
 
