@@ -1,6 +1,6 @@
 ### Bienvenido!!!
 
-<img src="" width="70%" title="Intro" alt="Intro-Card">
+<img src="https://github.com/Gonzavidal/Gonzavidal/blob/ae373578aca07c8dfc39eeae23875ea5af87c526/Tarjeta%20presentaci%C3%B3n%20GV.png" width="70%" title="Intro" alt="Intro-Card">
 
 
 Certificado en Fullstack Developer en 4Geeks Academy Chile e Ingeniero en administración de empresas.
